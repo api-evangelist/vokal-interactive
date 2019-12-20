@@ -1,0 +1,53 @@
+{
+    "name": "Vokal Interactive",
+    "description": "Vokal is a leading-edge digital agency in Chicago, specializing in mobile apps. We design, develop and deploy digital experiences that get results.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3751-vokal-interactive.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/vokal-interactive\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Vokal Interactive",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3751-vokal-interactive.jpg",
+            "humanURL": "http:\/\/vokalinteractive.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/vokal-interactive-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/vokal-interactive"
+        },
+        {
+            "type": "Email",
+            "url": "hello@vokalinteractive.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VOKALmobile"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/VokalTweets"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/vokalinteractive.com\/"
+        }
+    ]
+}
